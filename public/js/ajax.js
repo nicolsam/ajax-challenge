@@ -24,7 +24,7 @@ class Ajax{
     getAjax(){
         return this.ajax;
     }
-    requisitar(word, element){
+    requisitar(word, element, filter){
         if(this.getAjax()){
             this.getAjax().onreadystatechange = function(){
                 if(this.readyState == 4){
@@ -35,7 +35,8 @@ class Ajax{
                     }
                 }
             };
-            this.getAjax().open("GET",'../src/action/consulta.php?search=' + word, true);
+            this.getAjax().open("GET",`../src/action/consulta.php?search=${word}&filter=${filter}`, true);
+
             this.getAjax().send();
         }
     }
