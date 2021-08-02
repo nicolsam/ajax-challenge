@@ -1,6 +1,6 @@
 # ajax-challenge
 
-Este **projeto** foi feito com base no video a seguir:
+Este **projeto** foi feito com base no video a seguir: \
 [Desafio de Ajax](https://drive.google.com/file/d/1BVQGn-2bnaIgmVwsSxcau9vvU5eBs320/view 
 "Desafio de Ajax")
 
