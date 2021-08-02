@@ -15,9 +15,6 @@ Este **projeto** foi feito com base no video a seguir: \
 * Adicionar filtro de pesquisa funcional
 * Construir uma interface atraente e com boa usabilidade (User Experience)
 
-
-![HTML, CSS and Javascript](https://cdn-images-1.medium.com/max/2000/1*l4xICbIIYlz1OTymWCoUTw.jpeg)
-
 ### Linguagens/ferramentas utilizadas no projeto
 
 * HTML
@@ -25,3 +22,7 @@ Este **projeto** foi feito com base no video a seguir: \
 * Javascript
 * AJAX
 * PHP
+
+![HTML, CSS and Javascript](https://cdn-images-1.medium.com/max/2000/1*l4xICbIIYlz1OTymWCoUTw.jpeg)
+
+
