@@ -17,3 +17,11 @@ Este **projeto** foi feito com base no video a seguir: \
 
 
 ![HTML, CSS and Javascript](https://cdn-images-1.medium.com/max/2000/1*l4xICbIIYlz1OTymWCoUTw.jpeg)
+
+### Linguagens/ferramentas utilizadas no projeto
+
+* HTML
+* CSS
+* Javascript
+* AJAX
+* PHP
